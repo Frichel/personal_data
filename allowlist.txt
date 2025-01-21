@@ -1,0 +1,2 @@
+https://inven.co.kr/*
+https://*.inven.co.kr/*
